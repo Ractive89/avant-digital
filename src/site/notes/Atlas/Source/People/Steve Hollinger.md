@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/source/people/steve-hollinger/"}
+{"dg-publish":true,"permalink":"/Atlas/Source/People/Steve Hollinger/"}
 ---
 
 

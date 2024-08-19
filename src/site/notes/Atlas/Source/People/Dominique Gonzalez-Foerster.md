@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/source/people/dominique-gonzalez-foerster/"}
+{"dg-publish":true,"permalink":"/Atlas/Source/People/Dominique Gonzalez-Foerster/"}
 ---
 
 

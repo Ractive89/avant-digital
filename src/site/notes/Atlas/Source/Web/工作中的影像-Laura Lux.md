@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/source/web/laura-lux/"}
+{"dg-publish":true,"permalink":"/Atlas/Source/Web/工作中的影像-Laura Lux/"}
 ---
 
 

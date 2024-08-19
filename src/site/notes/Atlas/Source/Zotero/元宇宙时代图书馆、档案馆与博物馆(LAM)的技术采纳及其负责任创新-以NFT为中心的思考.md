@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/source/zotero/lam-nft/"}
+{"dg-publish":true,"permalink":"/Atlas/Source/Zotero/元宇宙时代图书馆、档案馆与博物馆(LAM)的技术采纳及其负责任创新-以NFT为中心的思考/"}
 ---
 
 

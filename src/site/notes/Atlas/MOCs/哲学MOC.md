@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/moc/"}
+{"dg-publish":true,"permalink":"/Atlas/MOCs/哲学MOC/"}
 ---
 
 

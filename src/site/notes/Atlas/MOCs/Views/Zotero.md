@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/views/zotero/"}
+{"dg-publish":true,"permalink":"/Atlas/MOCs/Views/Zotero/"}
 ---
 
 

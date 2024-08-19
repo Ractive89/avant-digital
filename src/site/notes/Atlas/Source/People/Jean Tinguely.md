@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/source/people/jean-tinguely/"}
+{"dg-publish":true,"permalink":"/Atlas/Source/People/Jean Tinguely/"}
 ---
 
 

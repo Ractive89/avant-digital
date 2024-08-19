@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/source/people/peter-william-holdel/"}
+{"dg-publish":true,"permalink":"/Atlas/Source/People/Peter William Holdel/"}
 ---
 
 

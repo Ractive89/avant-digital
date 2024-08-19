@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/source/people/ani-liu/"}
+{"dg-publish":true,"permalink":"/Atlas/Source/People/Ani Liu/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/source/people/thomas-feuerstein/"}
+{"dg-publish":true,"permalink":"/Atlas/Source/People/Thomas Feuerstein/"}
 ---
 
 

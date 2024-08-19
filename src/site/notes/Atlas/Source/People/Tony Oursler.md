@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/source/people/tony-oursler/"}
+{"dg-publish":true,"permalink":"/Atlas/Source/People/Tony Oursler/"}
 ---
 
 
