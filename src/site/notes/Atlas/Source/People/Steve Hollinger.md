@@ -3,7 +3,7 @@
 ---
 
 
-**Up**:: [[Atlas/Artist\|Artist]]
+**Up**:: [[Atlas/MOCs/Views/Artist\|Artist]]
 
 **Tags**:: #t/艺术 #t/人物
 
