@@ -14,5 +14,6 @@
 | [[Atlas/Source/Book/反对本本主义\|反对本本主义]]           | _毛泽东_      | 3      | #t/马列毛      |
 | [[Atlas/Source/Book/实践论\|实践论]]                 | _毛泽东_      | 4      | #t/马列毛      |
 | [[Atlas/Source/Book/艺术学概论\|艺术学概论]]             | _艺术学概论编写组_ | 2      | #t/艺术 #t/综述 |
+| [[Atlas/Source/Book/怎么办\|怎么办]]                 | _列宁_       | 4      | #t/马列毛      |
 
 { .block-language-dataview}
