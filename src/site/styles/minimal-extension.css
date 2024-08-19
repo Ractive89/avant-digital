@@ -1,0 +1,153 @@
+body {
+    --link-color: hsl(334, 100%, 75%);
+    --link-color-hover: hsl(334, 100%, 75%);
+    --link-decoration: none;
+    --link-decoration-hover: none;
+    --link-external-color: hsl(334, 100%, 75%);
+    --link-external-color-hover: hsl(334, 100%, 75%);
+    --link-external-decoration: none;
+    --link-external-decoration-hover: none;
+    --link-external-filter: none;
+    --link-unresolved-color: hsl(334, 100%, 75%);
+    --link-unresolved-opacity: 0.65;
+    --link-unresolved-filter: none;
+}
+
+/* body{
+    --table-background: transparent;
+    --table-border-width: 1px;
+  
+    --table-white-space: normal;
+  
+    --table-header-border-width: var(--table-border-width);
+    --table-header-font: inherit;
+    --table-header-size: inherit;
+    --table-header-weight: var(--font-semibold);
+    --table-header-color: hsl(220, 23%, 90%);
+  
+    --table-text-size: inherit;
+    --table-text-color: inherit;
+  
+    --table-column-max-width: none;
+    --table-column-first-border-width: var(--table-border-width);
+    --table-column-last-border-width: var(--table-border-width);
+  
+    --table-row-last-border-width: var(--table-border-width);
+    --table-edge-cell-padding-first: 10px;
+} */
+
+body{
+    --bold-color: hsl(51, 55%, 69%);
+    --bold-italic-color: hsl(231, 9%, 15%);
+    --italic-color: hsl(255, 100%, 86%);
+    --blockquote-background-color: transparent;
+}
+
+span.cm-em.cm-quote{
+    color:hsla(255, 100%, 86%, 0.75);
+}
+
+blockquote p em{
+    color:hsla(255, 100%, 86%, 0.75);
+}
+
+span.cm-strong.cm-quote{
+    color:hsla(51, 55%, 69%,  0.75);
+}
+
+blockquote p strong{
+    color:hsla(51, 55%, 69%,  0.75);
+}
+
+body {
+    --h1-color: hsl(191, 90%, 50%);
+    --h2-color: hsl(260, 100%, 79%);
+    --h3-color: hsl(28, 63%, 66%);
+    --h4-color: hsl(151, 54%, 64%);
+    --h5-color: hsl(224, 37%, 80%);
+    --h6-color: hsl(223, 18%, 68%);
+    --h1-size: 1.25rem;
+    --h2-size: 1.2rem;
+    --h3-size: 1.15rem;
+    --h4-size: 1.1rem;
+    --h5-size: 1.05rem;
+    --h6-size: 1.00rem;
+    --h1-weight: 600;
+    --h2-weight: 600;
+    --h3-weight: 600;
+    --h4-weight: 600;
+    --h5-weight: 600;
+    --h6-weight: 600;
+    --h1-variant: normal;
+    --h2-variant: normal;
+    --h3-variant: normal;
+    --h4-variant: normal;
+    --h5-variant: normal;
+    --h6-variant: normal;
+    --h1-style: normal;
+    --h2-style: normal;
+    --h3-style: normal;
+    --h4-style: normal;
+    --h5-style: normal;
+    --h6-style: normal;
+}
+
+body:not(.minimal-unstyled-tags) {
+    --tag-color: hsl(151, 54%, 64%);
+    --tag-color-hover: hsl(151, 54%, 64%);
+    --tag-decoration: none;
+    --tag-decoration-hover: none;
+    --tag-background: rgba(0, 0, 0, 0.15);
+    --tag-background-hover: rgba(0, 0, 0, 0.15);
+    --tag-border-color: transparent;
+    --tag-border-color-hover: transparent;
+}
+
+body{
+    --img-max-width: 100%;
+    --img-max-height-list: auto;
+}
+
+.tag {
+    background-color: var(--text-accent);
+}
+
+.tag:hover {
+    background-color: var(--text-accent-hover);
+}
+
+.tag[href^="#todo"] {
+    color: #3e93d8;
+}
+
+.cm-s-obsidian span.cm-tag-todo,
+.tag[href^="#todo"] {
+    color: #3e93d8;
+}
+
+.tag[href^="#Index"] {
+    color: #f0eb41;
+}
+
+.cm-s-obsidian span.cm-tag-Index,
+.tag[href^="#Index"] {
+    color: #f0eb41;
+}
+
+.tag[href^="#Tools"] {
+    color: hsl(342, 96%, 68%);
+}
+
+.cm-s-obsidian span.cm-tag-Tools,
+.tag[href^="#Tools"] {
+    color: hsl(342, 96%, 68%);
+}
+
+.tag[href^="#Process"] {
+    color: #c0a9f8;
+}
+
+.cm-s-obsidian span.cm-tag-Process,
+.tag[href^="#Process"] {
+    color: #c0a9f8;
+}
