@@ -3,7 +3,7 @@
 ---
 
 
-**Up**::
+**Up**:: [[Home\|Home]]
 
 **Tags**:: #Index
 
