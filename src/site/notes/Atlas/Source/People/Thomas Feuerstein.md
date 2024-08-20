@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Source/People/Thomas Feuerstein/"}
+aliases: "托马斯-费因斯坦"
+draft: true
+dg-publish: true
 ---
-
 
 **Up**:: [[Atlas/MOCs/Views/Artist\|Artist]]
 
