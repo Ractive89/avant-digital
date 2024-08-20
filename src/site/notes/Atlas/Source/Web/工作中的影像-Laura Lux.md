@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Source/Web/工作中的影像-Laura Lux/"}
+aliases: 
+url: https://we-make-money-not-art.com/images-at-work-a-cinematic-view-on-the-working-class/
+draft: true
+dg-publish: true
+type: video
+author: art in Luxembourg
 ---
-
 
 **Up**:: [[Atlas/MOCs/Views/Web\|Web]]
 

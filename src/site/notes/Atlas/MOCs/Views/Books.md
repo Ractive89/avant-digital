@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/MOCs/Views/Books/"}
+aliases: []
+draft: true
+dg-publish: true
+cssclasses: []
 ---
-
 
 **Up**:: [[Home\|Home]]
 
@@ -10,10 +12,10 @@
 | File                                              | Author     | Rating | Tags        |
 | ------------------------------------------------- | ---------- | ------ | ----------- |
 | [[Atlas/Source/Book/关于费尔巴哈的提纲\|关于费尔巴哈的提纲]]     | _马克思_      | 4      | #t/马列毛      |
-| [[Atlas/Source/Book/存在主义是一种人道主义\|存在主义是一种人道主义]] | _萨特_       | 4      | #t/存在主义     |
 | [[Atlas/Source/Book/反对本本主义\|反对本本主义]]           | _毛泽东_      | 3      | #t/马列毛      |
+| [[Atlas/Source/Book/存在主义是一种人道主义\|存在主义是一种人道主义]] | _萨特_       | 4      | #t/存在主义     |
 | [[Atlas/Source/Book/实践论\|实践论]]                 | _毛泽东_      | 4      | #t/马列毛      |
-| [[Atlas/Source/Book/艺术学概论\|艺术学概论]]             | _艺术学概论编写组_ | 2      | #t/艺术 #t/综述 |
 | [[Atlas/Source/Book/怎么办\|怎么办]]                 | _列宁_       | 4      | #t/马列毛      |
+| [[Atlas/Source/Book/艺术学概论\|艺术学概论]]             | _艺术学概论编写组_ | 2      | #t/艺术 #t/综述 |
 
 { .block-language-dataview}
