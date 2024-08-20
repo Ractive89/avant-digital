@@ -1,8 +1,7 @@
 ---
-aliases: "彼得 - 威廉 - 霍德尔"
-draft: true
-dg-publish: true
+{"dg-publish":true,"permalink":"/Atlas/Source/People/Peter William Holdel/"}
 ---
+
 
 **Up**:: [[Atlas/MOCs/Views/Artist\|Artist]]
 

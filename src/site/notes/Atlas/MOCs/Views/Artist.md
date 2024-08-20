@@ -1,9 +1,7 @@
 ---
-aliases: []
-draft: true
-dg-publish: true
-cssclasses: []
+{"dg-publish":true,"permalink":"/Atlas/MOCs/Views/Artist/"}
 ---
+
 
 **Up**:: [[Home\|Home]]
 

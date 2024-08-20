@@ -1,8 +1,7 @@
 ---
-aliases: 
-draft: true
-dg-publish: true
+{"dg-publish":true,"permalink":"/Atlas/MOCs/哲学MOC/"}
 ---
+
 
 **Up**:: [[Home\|Home]]
 

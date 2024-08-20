@@ -1,8 +1,7 @@
 ---
-aliases: "尚-丁格利"
-draft: true
-dg-publish: true
+{"dg-publish":true,"permalink":"/Atlas/Source/People/Jean Tinguely/"}
 ---
+
 
 **Up**:: [[Atlas/MOCs/Views/Artist\|Artist]]
 
