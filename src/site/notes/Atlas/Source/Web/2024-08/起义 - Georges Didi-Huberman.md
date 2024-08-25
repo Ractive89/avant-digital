@@ -7,7 +7,7 @@
 
 **Tags**:: #t/展览 #t/图像学 #t/当代艺术 
 
-Le Jeu de Paume étant un centre de l’image, il nous semble urgent et cohérent par rapport à sa responsabilité vis-à-vis de la société de réactualiser l’analyse des conditions historiques où se sont développées la photographie et l’image en mouvement durant les périodes moderne et postmoderne avec toutes leurs possibilités, provocations et contestations. […]
+Le Jeu de Paume étant un centre de l’image, il nous semble urgent et cohérent par rapport à sa responsabilité vis-à-vis de la société de réactualiser l’analyse des conditions historiques où se sont développées la photographie et l’image en mouvement durant les périodes moderne et postmoderne avec toutes leurs possibilités, provocations et contestations. 
 
 C’est dans cette perspective que la magnifique proposition du philosophe et historien de l’art Georges Didi-Huberman de concrétiser, sous la forme d’une exposition, ses recherches autour du thème des « Soulèvements » nous a paru un défi intellectuel, muséographique et artistique idéal. Si la notion de révolution, de rébellion ou de révolte n’est pas étrangère au vocabulaire de la société contemporaine, leurs objectifs, leurs gestes souffrent eux d’amnésies et d’inerties collectives. Pour cette raison, analyser les formes de représentation des « Soulèvements », depuis les gravures de Goya jusqu’aux installations, peintures, photographies, documents, vidéos et films contemporains, apparaît d’une pertinence sans équivoque dans le contexte social qui est le nôtre en 2016
 
