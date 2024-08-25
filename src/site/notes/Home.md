@@ -12,7 +12,8 @@
 - 话题
 	- #t/人工智能 #t/符号学 #t/生物艺术 #t/图像学
 - 创作
-
+- 快速链接
+	- [omnivore.app/library](https://omnivore.app/library) | [设计学概论伴读](https://www.bilibili.com/video/BV1aa4y1j76h/)
 ## 最近更新
 
 | File                                                                                   | 创建日期                       |
