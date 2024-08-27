@@ -15,20 +15,20 @@
 
 [[Atlas/Notes/神话\|神话]]
 
+## 流派
+
 ### 心灵哲学
+
+[[Atlas/Notes/身心二元论\|身心二元论]] | [[Atlas/Notes/物理主义\|物理主义]]
 
 [[Atlas/Notes/泛心论\|泛心论]]
 
-[[Atlas/Notes/身心二元论\|身心二元论]]
+## 前沿
 
-[[Atlas/Notes/物理主义\|物理主义]]
+[[Atlas/Notes/行动者网络\|行动者网络]]
 
-## 流派
-
-### 马克思
+[[Atlas/Notes/物导向本体论\|物导向本体论]]
 
 ### 符号学
 
-[[Atlas/Notes/符号学\|符号学]]
-
-[[Atlas/Notes/结构符号学\|结构符号学]]
+[[Atlas/Notes/符号学\|符号学]] | [[Atlas/Notes/结构符号学\|结构符号学]]
