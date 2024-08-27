@@ -1,9 +1,7 @@
 ---
-aliases: 
-draft: false
-dg-publish: true
-cssClasses: cards, cards-cover, cards-cols-2
+{"dg-publish":true,"permalink":"/Atlas/MOCs/Views/Zotero/","contentClasses":"cards, cards-cover, cards-cols-2"}
 ---
+
 
 **Up**:: [[Home\|Home]]
 
