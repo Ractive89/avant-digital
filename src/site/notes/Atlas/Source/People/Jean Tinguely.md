@@ -67,8 +67,7 @@ Metamatic no. 17 是为 1959 年巴黎双年展特别创作的。当这个装置
 
 这件作品是在 1960 年秋天到 1962 年 9 月之间完成的，当时它在纽约 *Sidney Janis* 的画廊展出，这个冰箱是 Marcel Duchamp 送给他的礼物。
 
-![[Assets/Attachment/Jean Tinguely-6.png\|Assets/Attachment/Jean Tinguely-6.png]]
-
+![](https://img.ractive.site/ominivore/i/2024-07/d5505fb75fdaf43c71ab69c2711c79c6.png)
 ### Santana Bascule
 
 一个厚而平的黑色木轮连接一个薄的半圆形金属片，占据了中心位置。这个雕塑由一个特殊的基座来平衡，基座由凹陷的金属条组成，它左右摇晃，同时以一种不可预测的方式围绕中心元素。
