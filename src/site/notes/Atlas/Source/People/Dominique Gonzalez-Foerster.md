@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Source/People/Dominique Gonzalez-Foerster/"}
+aliases: "多米尼克 - 冈萨雷斯 - 弗尔斯特"
+draft: true
+dg-publish: true
 ---
-
 
 **Up**:: [[Atlas/MOCs/Views/Artist\|Artist]]
 

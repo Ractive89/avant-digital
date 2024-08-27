@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Source/People/Steve Hollinger/"}
+aliases: "史蒂夫 - 霍林格"
+draft: true
+dg-publish: true
 ---
-
 
 **Up**:: [[Atlas/MOCs/Views/Artist\|Artist]]
 

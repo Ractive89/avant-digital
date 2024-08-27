@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Source/Web/2024-08/起义 - Georges Didi-Huberman/"}
+aliases: 
+draft: true
+author: Georges Didi-Huberman
+dg-publish: true
+id: b29e0049-5525-432c-895c-bea087d8c42f
+omnivoreUrl: https://omnivore.app/me/soulevements-un-parcours-19184985d6c
+originalUrl: https://archive-soulevements.jeudepaume.org/parcours/index.html
+type: WEBSITE
 ---
-
 
 **Up**:: [[Atlas/MOCs/Views/Web\|Web]]
 
