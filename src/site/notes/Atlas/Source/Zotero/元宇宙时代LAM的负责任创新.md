@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Source/Zotero/元宇宙时代LAM的负责任创新/"}
+aliases: chenmiao2022yuanyuzhoushidai
+draft: true
+dg-publish: true
+rating: 1
+zotero-key: VA3MJ77K
+zt-attachments:
+  - "5"
 ---
-
 
 **Tags**:: #t/元宇宙 
 
