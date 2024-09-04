@@ -32,14 +32,14 @@ dg-publish: true
 | [[Atlas/Utilities/ZtTemplates/zt-note.eta\|zt-note.eta]]                                     | 2:27 AM - September 04, 2024 |
 | [[Efforts/Evergreen/如何记笔记\|如何记笔记]]                                                           | 2:27 AM - September 04, 2024 |
 | [[Efforts/考研/政治/肖四\|肖四]]                                                                     | 2:27 AM - September 04, 2024 |
-| [[Efforts/考研/政治/马原\|马原]]                                                                     | 2:27 AM - September 04, 2024 |
 | [[Efforts/考研/政治/重点\|重点]]                                                                     | 2:27 AM - September 04, 2024 |
+| [[Efforts/考研/政治/马原\|马原]]                                                                     | 2:27 AM - September 04, 2024 |
 | [[Atlas/Source/Zotero/德波的 “景观社会” 理论评析\|德波的 “景观社会” 理论评析]]                                     | 2:27 AM - September 04, 2024 |
-| [[Atlas/Source/Zotero/智能时代身体主体性的颠覆与重构-兼论人类与人工智能的主体间性\|智能时代身体主体性的颠覆与重构-兼论人类与人工智能的主体间性]]       | 2:27 AM - September 04, 2024 |
 | [[Atlas/Source/Zotero/短暂与永恒-对艺术与科技的关系的反思\|短暂与永恒-对艺术与科技的关系的反思]]                               | 2:27 AM - September 04, 2024 |
+| [[Atlas/Source/Zotero/智能时代身体主体性的颠覆与重构-兼论人类与人工智能的主体间性\|智能时代身体主体性的颠覆与重构-兼论人类与人工智能的主体间性]]       | 2:27 AM - September 04, 2024 |
 | [[Atlas/Source/Zotero/米歇尔的 “图像转向” 理论解析\|米歇尔的 “图像转向” 理论解析]]                                   | 2:27 AM - September 04, 2024 |
-| [[Atlas/Source/Zotero/被编码的艺术性-对人工智能生成画作的美学批判\|被编码的艺术性-对人工智能生成画作的美学批判]]                       | 2:27 AM - September 04, 2024 |
 | [[Atlas/Source/Zotero/论人工智能时代技术与人的互构与互驯——基于海德格尔技术哲学观的考察\|论人工智能时代技术与人的互构与互驯——基于海德格尔技术哲学观的考察]] | 2:27 AM - September 04, 2024 |
+| [[Atlas/Source/Zotero/被编码的艺术性-对人工智能生成画作的美学批判\|被编码的艺术性-对人工智能生成画作的美学批判]]                       | 2:27 AM - September 04, 2024 |
 | [[Atlas/Source/Zotero/身体、符号与媒介\|身体、符号与媒介]]                                                   | 2:27 AM - September 04, 2024 |
 
 { .block-language-dataview}
