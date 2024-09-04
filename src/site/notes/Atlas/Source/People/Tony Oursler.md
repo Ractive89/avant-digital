@@ -1,8 +1,7 @@
 ---
-aliases: "托尼 - 奥斯勒"
-draft: true
-dg-publish: true
+{"dg-publish":true,"permalink":"/Atlas/Source/People/Tony Oursler/"}
 ---
+
 
 **Up**:: [[Atlas/MOCs/Views/Artist\|Artist]]
 

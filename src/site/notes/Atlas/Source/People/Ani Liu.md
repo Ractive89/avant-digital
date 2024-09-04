@@ -1,8 +1,7 @@
 ---
-aliases: "刘亚妮"
-draft: true
-dg-publish: true
+{"dg-publish":true,"permalink":"/Atlas/Source/People/Ani Liu/"}
 ---
+
 
 **Up**:: [[Atlas/MOCs/Views/Artist\|Artist]]
 
