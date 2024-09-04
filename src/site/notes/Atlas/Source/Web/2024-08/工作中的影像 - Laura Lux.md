@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Source/Web/2024-08/工作中的影像 - Laura Lux/"}
+aliases: 
+draft: true
+author: Art in Luxembourg
+dg-publish: true
+id: 68d6167b-734f-41c8-9e36-e095512a86e1
+omnivoreUrl: https://omnivore.app/me/images-at-work-a-cinematic-view-on-the-working-class-we-make-mon-191847b2b83
+originalUrl: https://we-make-money-not-art.com/images-at-work-a-cinematic-view-on-the-working-class/
+type: ARTICLE
 ---
-
 
 **Up**:: [[Atlas/MOCs/Views/Web\|Web]]
 
