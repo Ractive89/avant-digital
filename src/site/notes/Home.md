@@ -12,6 +12,7 @@
 - 话题
 	- #t/人工智能 #t/符号学 #t/生物艺术 #t/图像学
 - 创作
+	- [[Memos/TODO\|TODO]]
 - 快速链接
 	- [omnivore.app/library](https://omnivore.app/library) | [设计学概论伴读](https://www.bilibili.com/video/BV1aa4y1j76h/)
 
@@ -22,8 +23,8 @@
 | [[Memos/TODO\|TODO]]                                                                         | 12:16 PM - September 04, 2024 |
 | [[Atlas/Source/Zotero/媒介环境学视角下的新媒体艺术传播\|媒介环境学视角下的新媒体艺术传播]]                                   | 12:16 PM - September 04, 2024 |
 | [[Atlas/Source/Zotero/智能时代身体主体性的颠覆与重构-兼论人类与人工智能的主体间性\|智能时代身体主体性的颠覆与重构-兼论人类与人工智能的主体间性]]       | 12:16 PM - September 04, 2024 |
-| [[Atlas/Notes/座架\|座架]]                                                                       | 12:16 PM - September 04, 2024 |
 | [[Atlas/Source/Web/2024-08/算法种族主义\|算法种族主义]]                                                  | 12:16 PM - September 04, 2024 |
+| [[Efforts/Notes/座架\|座架]]                                                                     | 12:16 PM - September 04, 2024 |
 | [[Atlas/Source/Zotero/身体、符号与媒介\|身体、符号与媒介]]                                                   | 10:44 PM - August 27, 2024    |
 | [[Efforts/Evergreen/如何记笔记\|如何记笔记]]                                                           | 10:44 PM - August 27, 2024    |
 | [[Home\|Home]]                                                                               | 10:44 PM - August 27, 2024    |
