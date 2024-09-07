@@ -18,27 +18,27 @@
 
 ## 最近更新
 
-| File                                                                                            | 创建日期                          |
-| ----------------------------------------------------------------------------------------------- | ----------------------------- |
-| [[Memos/TODO\|TODO]]                                                                         | 12:16 PM - September 04, 2024 |
-| [[Atlas/Source/Zotero/媒介环境学视角下的新媒体艺术传播\|媒介环境学视角下的新媒体艺术传播]]                                   | 12:16 PM - September 04, 2024 |
-| [[Atlas/Source/Zotero/智能时代身体主体性的颠覆与重构-兼论人类与人工智能的主体间性\|智能时代身体主体性的颠覆与重构-兼论人类与人工智能的主体间性]]       | 12:16 PM - September 04, 2024 |
-| [[Atlas/Source/Web/2024-08/算法种族主义\|算法种族主义]]                                                  | 12:16 PM - September 04, 2024 |
-| [[Efforts/Notes/座架\|座架]]                                                                     | 12:16 PM - September 04, 2024 |
-| [[Atlas/Source/Zotero/身体、符号与媒介\|身体、符号与媒介]]                                                   | 10:44 PM - August 27, 2024    |
-| [[Efforts/Evergreen/如何记笔记\|如何记笔记]]                                                           | 10:44 PM - August 27, 2024    |
-| [[Home\|Home]]                                                                               | 10:44 PM - August 27, 2024    |
-| [[Atlas/Source/Zotero/米歇尔的 “图像转向” 理论解析\|米歇尔的 “图像转向” 理论解析]]                                   | 10:44 PM - August 27, 2024    |
-| [[Atlas/Source/Zotero/被编码的艺术性-对人工智能生成画作的美学批判\|被编码的艺术性-对人工智能生成画作的美学批判]]                       | 10:44 PM - August 27, 2024    |
-| [[Atlas/Source/Zotero/论人工智能时代技术与人的互构与互驯——基于海德格尔技术哲学观的考察\|论人工智能时代技术与人的互构与互驯——基于海德格尔技术哲学观的考察]] | 10:44 PM - August 27, 2024    |
-| [[Atlas/Source/Zotero/短暂与永恒-对艺术与科技的关系的反思\|短暂与永恒-对艺术与科技的关系的反思]]                               | 10:44 PM - August 27, 2024    |
-| [[Atlas/Source/Zotero/后人类时代的媒介-身体\|后人类时代的媒介-身体]]                                             | 10:44 PM - August 27, 2024    |
-| [[Atlas/Source/Zotero/德波的 “景观社会” 理论评析\|德波的 “景观社会” 理论评析]]                                     | 10:44 PM - August 27, 2024    |
-| [[Atlas/Source/Zotero/元宇宙技术综述\|元宇宙技术综述]]                                                     | 10:44 PM - August 27, 2024    |
-| [[Atlas/Source/Zotero/元宇宙时代LAM的负责任创新\|元宇宙时代LAM的负责任创新]]                                       | 10:44 PM - August 27, 2024    |
-| [[Atlas/Source/Zotero/元宇宙的资本逻辑批判和规制\|元宇宙的资本逻辑批判和规制]]                                         | 10:44 PM - August 27, 2024    |
-| [[Atlas/Source/Zotero/人工智能与后人类美学\|人工智能与后人类美学]]                                               | 10:44 PM - August 27, 2024    |
-| [[Atlas/Source/Zotero/元宇宙-媒介化社会的未来生态图景\|元宇宙-媒介化社会的未来生态图景]]                                   | 10:44 PM - August 27, 2024    |
-| [[Atlas/Source/Web/2024-08/符号学和当代艺术的发展脉络\|符号学和当代艺术的发展脉络]]                                    | 10:44 PM - August 27, 2024    |
+| File                                                                                      | 修改日期                          |
+| ----------------------------------------------------------------------------------------- | ----------------------------- |
+| [[+Encounters/黑暗生态学\|黑暗生态学]]                                                           | 1:16 AM - September 08, 2024  |
+| [[+Encounters/思辨实在论\|思辨实在论]]                                                           | 1:15 AM - September 08, 2024  |
+| [[Efforts/Notes/物导向本体论\|物导向本体论]]                                                       | 1:08 AM - September 08, 2024  |
+| [[Memos/TODO\|TODO]]                                                                   | 12:54 AM - September 08, 2024 |
+| [[Home\|Home]]                                                                         | 12:54 AM - September 08, 2024 |
+| [[Efforts/Notes/生物艺术\|生物艺术]]                                                           | 10:13 AM - September 06, 2024 |
+| [[Efforts/Notes/泛心论\|泛心论]]                                                             | 10:13 AM - September 06, 2024 |
+| [[Efforts/Notes/关系美学\|关系美学]]                                                           | 10:13 AM - September 06, 2024 |
+| [[Efforts/Evergreen/如何记笔记\|如何记笔记]]                                                     | 10:13 AM - September 06, 2024 |
+| [[Atlas/Source/Zotero/智能时代身体主体性的颠覆与重构-兼论人类与人工智能的主体间性\|智能时代身体主体性的颠覆与重构-兼论人类与人工智能的主体间性]] | 10:13 AM - September 06, 2024 |
+| [[Atlas/Source/Zotero/元宇宙的资本逻辑批判和规制\|元宇宙的资本逻辑批判和规制]]                                   | 10:13 AM - September 06, 2024 |
+| [[Atlas/Source/Zotero/人工智能与后人类美学\|人工智能与后人类美学]]                                         | 10:13 AM - September 06, 2024 |
+| [[Atlas/Source/Web/2024-08/符号学和当代艺术的发展脉络\|符号学和当代艺术的发展脉络]]                              | 10:13 AM - September 06, 2024 |
+| [[Atlas/Source/Web/2024-08/生物艺术的疆界与伦理\|生物艺术的疆界与伦理]]                                    | 10:13 AM - September 06, 2024 |
+| [[Atlas/Source/Web/2024-08/法国符号学概要与实例分析\|法国符号学概要与实例分析]]                                | 10:13 AM - September 06, 2024 |
+| [[Atlas/Source/Web/2024-08/意识问题与非还原物理主义\|意识问题与非还原物理主义]]                                | 10:13 AM - September 06, 2024 |
+| [[Atlas/Source/Web/2024-08/对关系美学批判\|对关系美学批判]]                                          | 10:13 AM - September 06, 2024 |
+| [[Atlas/Source/Web/2024-08/从泛心论到人工智能\|从泛心论到人工智能]]                                      | 10:13 AM - September 06, 2024 |
+| [[Atlas/Source/Web/2024-08/从创世神话到末世科幻\|从创世神话到末世科幻]]                                    | 10:13 AM - September 06, 2024 |
+| [[Atlas/Source/Book/人工智能的神话或悲歌\|人工智能的神话或悲歌]]                                           | 10:13 AM - September 06, 2024 |
 
 { .block-language-dataview}
